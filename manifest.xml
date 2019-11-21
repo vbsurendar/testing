@@ -1,0 +1,5 @@
+<manifest>
+	<remote name="bitbucket" fetch="https://bitbucket.org"/>
+	<default revision="refs/heads/master" remote="bitbucket" sync-j="4"/>
+	<project remote="yocto" revision="26ebdc2331db2e74a6f61e92751a78c188162dd6" name="meta-ivi" path="sources/meta-ivi"/>
+</manifest>
