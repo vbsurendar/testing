@@ -16,7 +16,7 @@
 
 
 
-  <project remote="visteon" revision="refs/tags/psa2020_" name="visteon-git/layer-meta-visteon-psa2020-apps" path="sources/meta-visteon-psa2020-apps"/>
+  <project remote="visteon" revision="refs/tags/psa2020_19" name="visteon-git/layer-meta-visteon-psa2020-apps" path="sources/meta-visteon-psa2020-apps"/>
  	   <linkfile src="scripts/visteon-setup-release-apps.sh" dest="visteon-setup-release-apps.sh"/>
   </project>
 
