@@ -3,6 +3,6 @@
 	<default sync-j="4"/>
 	<project remote="surendar" revision="refs/tags/v1.0" name="testing.git"  path="testing/">
   </project>
-	<project remote="surendar" revision="refs/tags/v2.0" name="testing.git"  path="testing/">
+	<project remote="surendar" revision="refs/tags/v3.0" name="testing.git"  path="testing/layer2">
   </project>
 </manifest>
