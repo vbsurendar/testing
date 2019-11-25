@@ -1,7 +1,8 @@
 <manifest>
 	<remote name="surendar" fetch="https://github.com/vbsurendar"/>
 	<default sync-j="4"/>
-	<project remote="surendar" revision="refs/tags/v4.0" name="testing">
+	<project remote="surendar" revision="refs/tags/v11.0" name="testing">
   </project>
-  <project remote="surendar" revision="refs/tags/v" name="testing" > 
+  <project remote="surendar" revision="refs/tags/v" name="testing" >
+  </project> 
 </manifest>
