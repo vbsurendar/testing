@@ -1,6 +1,6 @@
 <manifest>
 	<remote name="surendar" fetch="https://github.com/vbsurendar"/>
 	<default sync-j="4"/>
-	<project remote="surendar" revision="refs/tags/v19.0"  path="sources/layer1">
+	<project remote="surendar" revision="refs/tags/v19.0" name="sources/layer1"  path="sources/layer1">
   </project>
 </manifest>
