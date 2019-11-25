@@ -1,0 +1,7 @@
+<manifest>
+	<remote name="surendar" fetch="https://github.com/vbsurendar"/>
+	<default sync-j="4"/>
+	<project remote="surendar" revision="refs/tags/v17.0" name="testing/layer1" path="testing/layer1">
+	<linkfile dest="testing"/>
+  </project>
+</manifest>
